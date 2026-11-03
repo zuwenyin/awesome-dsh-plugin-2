@@ -246,6 +246,7 @@ DeepSeek Harness 是 DeepSeek 开源的 agent harness——既是可直接运行
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) — 供 DSH 与其他编程 Agent 共享的 Markdown 记忆，支持自动捕获、步骤前上下文注入、搜索召回与审阅面板。
 
 ### 🛠️ 工具与能力
+- [fuyiyun666/dsh-njs-watch](https://github.com/fuyiyun666/dsh-njs-watch) — 看屏或看视频：状态轨、关键帧、可选 OCR、残影，并报告「是怎么看的」（实时／抽样、覆盖率）。
 - [1na-ko/dsh-hdc-bridge](https://github.com/1na-ko/dsh-hdc-bridge) — 鸿蒙设备桥：hdc 截图/装包/日志/崩溃/UI 自动化闭环（配 read_image 看图），官方优先版本化 API 知识层（SDK .d.ts + 离线随包文档），以及 DevEco CLI 构建/签名/lint 通道。
 - [dsh-verify](https://github.com/263311487-ux/dsh-verify) — 独立浏览器验收测试：JSON 清单驱动真实 Chromium，断言计算样式与像素差异，输出 HTML 报告 + 0/1 退出码；提供 npm CLI、GitHub Action 与 MCP Server。
 - [acefun29/dsh-file-mount](https://github.com/acefun29/dsh-file-mount) — 文件增量挂载与重复读取去重：已挂载行范围不重复进上下文。
